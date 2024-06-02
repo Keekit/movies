@@ -16,9 +16,9 @@ recommandations de films."
 ● Semaine 7 : Affinage, interface, présentation et Demo Day
 
 # Les données :
-IMDB : https://datasets.imdbws.com/
-TMDB : https://drive.google.com/file/d/1VB5_gl1fnyBDzcIOXZ5vUSbCY68VZN1v/view
-Documentation : https://developer.imdb.com/non-commercial-datasets/
+IMDB : https://datasets.imdbws.com/ 
+TMDB : https://drive.google.com/file/d/1VB5_gl1fnyBDzcIOXZ5vUSbCY68VZN1v/view 
+Documentation : https://developer.imdb.com/non-commercial-datasets/ 
 
 # Langages :
 Python, HTML, CSS
@@ -26,7 +26,7 @@ Python, HTML, CSS
 # Bibliothèques:
 Pandas, Numpy, Seaborn, Matplotlib, Scitik-Learn, Streamlit
 
-#Outils principaux : 
+# Outils principaux : 
 VSCode, Google Collab, Jupyter Notebook, GitHub, Google Meet, Discord, Streamlit
 
 
