@@ -1,6 +1,6 @@
-## movies
+## Movie
 
-# Projet de recommandation de film à partir d'un dataset IMDB réalisé du 03 Avril au 24 Mai en collaboration avec deux autres élèves de la Wild Code School.
+Projet de recommandation de film à partir d'un dataset IMDB réalisé du 03 Avril au 24 Mai en collaboration avec deux autres élèves de la Wild Code School.
 
 # Le sujet :
 "Un cinéma en perte de vitesse situé dans la
