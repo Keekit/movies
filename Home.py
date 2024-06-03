@@ -23,8 +23,8 @@ import requests
 
 
 # Importation de la base de données
-movie = pd.read_pickle(r'/Dataset/df_movieOK.pkl')
-cast = pd.read_pickle(r'Dataset/df_castOK.pkl')
+movie = pd.read_pickle('DataSet\df_movieOK.pkl')
+cast = pd.read_pickle('DataSet\df_castOK.pkl')
 
 
 

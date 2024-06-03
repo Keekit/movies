@@ -16,9 +16,8 @@ from toolsmovie import clean_base_knn_duplicates_list, show_movie_details_cast, 
 #           IMPORTATION ET INITIALISATION
 
 
-
-movie = pd.read_pickle(r'Dataset//df_movieOK.pkl')
-cast = pd.read_pickle(r'Dataset//df_castOK.pkl')
+movie = pd.read_pickle('DataSet\df_movieOK.pkl')
+cast = pd.read_pickle('DataSet\df_castOK.pkl')
 
 
 # Initialisation de l'état de la session pour la navigation
